@@ -12,10 +12,10 @@
 ## 效果预览
 
 前台效果图  <br/>
-![](https://github.com/sqdsl/Blog/blob/master/uploads/qiantai.png)
+![image](https://github.com/sqdsl/Blog/blob/master/uploads/qiantai.png)
 
 后台效果图  <br/>
-![](https://github.com/sqdsl/Blog/blob/master/uploads/houtai.png)
+![image](https://github.com/sqdsl/Blog/blob/master/uploads/houtai.png)
 <br/>
 ## 项目部署
 #### 版本
